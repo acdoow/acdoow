@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Abdul Wasay Khan 👋
 
-<!--
-**acdoow/acdoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at St. Cloud State University interested in software, hardware, networking, and hands-on engineering.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 B.S. Computer Engineering — Expected Fall 2028
+- 💻 Learning and working with C++, Python, Arduino, HTML, and MySQL
+- 🔧 Hands-on experience with fiber splicing and residential Wi-Fi installation
+- 🚀 Currently building projects to strengthen my programming and engineering skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- C++
+- Python
+- Arduino
+- HTML
+- MySQL
+- Fiber Splicing
+- Wi-Fi Installation
+- Network & Equipment Troubleshooting
+
+## Current Projects
+- 📚 Library Management System — Python / C++
+- ⚡ More engineering projects coming soon
+
+## Connect With Me
+[LinkedIn](https://www.linkedin.com/in/abdul-wasay-khan-ce)
